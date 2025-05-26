@@ -169,21 +169,21 @@ languages:
     percent: 100
   - name: Kikuyu
     percent: 80
-projects:
-  - title: Using Visual Language Models for Multimodal Disaster Classification.
-    url: https://github.com/Kenza1525/AI-Powered-Disaster-Response
-    Date: 2025-04-26
-    Summary: This project investigated the usability of text and images for Disaster classification. We leveraged Multi Modal Data from CrisisMMD and compared the performance of Visual Language Models with Contrastive Objectives against a Knowledge-infused and Explainable Multimodal Attention Network to classify Multiple Disaster based Tasks.
+# projects:
+#   - title: Using Visual Language Models for Multimodal Disaster Classification.
+#     url: https://github.com/Kenza1525/AI-Powered-Disaster-Response
+#     Date: 2025-04-26
+#     Summary: This project investigated the usability of text and images for Disaster classification. We leveraged Multi Modal Data from CrisisMMD and compared the performance of Visual Language Models with Contrastive Objectives against a Knowledge-infused and Explainable Multimodal Attention Network to classify Multiple Disaster based Tasks.
 
-  - title: Forest Loss and Lang Use change in the Amazon.
-    url: https://storymaps.arcgis.com/stories/1ecf859c037e46c7b10e5ca7571a36ac
-    Date: 2025-04-25
-    Summary: In this project we uncovered the change in tree cover, Land Use and Biodiversity Trends in the Amazon Rain Forest since the 1980's and the underlying sources among them encroachment of protected areas, conversion of forest areas to farm lands and population growth. This research project also uncovered Hotspots for species extinction and the need for stringent legal measures against deforestation.   
+#   - title: Forest Loss and Lang Use change in the Amazon.
+#     url: https://storymaps.arcgis.com/stories/1ecf859c037e46c7b10e5ca7571a36ac
+#     Date: 2025-04-25
+#     Summary: In this project we uncovered the change in tree cover, Land Use and Biodiversity Trends in the Amazon Rain Forest since the 1980's and the underlying sources among them encroachment of protected areas, conversion of forest areas to farm lands and population growth. This research project also uncovered Hotspots for species extinction and the need for stringent legal measures against deforestation.   
 
-  - title: Accelerating POCO Inference in 3D Reconstruction of Point Clouds.
-    url to the Video: https://youtu.be/NaJ1o1Y4RM4
-    Date: 2024-11-04
-    Summary: In quest to obtain efficiency in 3D reconstruction of objects, we enhanced POCO (Point Convolution for Surface Reconstruction) by utilizing Graphical Attention Network for feature learning. Here we treated Point clouds as nodes in a graph and assigned variable weights (feature weighting) to point cloud neighbors and performed Occupancy prediction using a final Linear Layer.
+#   - title: Accelerating POCO Inference in 3D Reconstruction of Point Clouds.
+#     url to the Video: https://youtu.be/NaJ1o1Y4RM4
+#     Date: 2024-11-04
+#     Summary: In quest to obtain efficiency in 3D reconstruction of objects, we enhanced POCO (Point Convolution for Surface Reconstruction) by utilizing Graphical Attention Network for feature learning. Here we treated Point clouds as nodes in a graph and assigned variable weights (feature weighting) to point cloud neighbors and performed Occupancy prediction using a final Linear Layer.
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -218,7 +218,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of Dara science and Machine Learning. By the end, I was familiar with the significant technological trends applied to make Data Driven Decisions at scale.     
+      I studied the foundational concept of Data science and Machine Learning. By the end, I was familiar with the significant technological trends applied to make Data Driven Decisions at scale.     
 ---
 
 ## About Me
