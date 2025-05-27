@@ -35,48 +35,60 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+        I'm an AI and Remote Sensing Consultant at the World Resources Institute. I build Machine Learning Models to solve the most pressing environmental issues. My research interest include the development and transfer of large-scale pretraining of Geo foundation models to Earth Observation focused end-use cases for environmental understanding (e.g., species distribution modelling, flood mapping, land-use and land-cover mapping, Land Use Change monitoring, You can find my blog about the same here 
+      url: /content/post
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
+      title: Recent Projects
+      text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
+          - project
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+      # fill_image: false
+      
+      # columns: 3
+  # - block: collection
+  #   content:
+  #     title: Recent Projects
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #         # - project
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Blog Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

@@ -164,8 +164,6 @@ languages:
     percent: 100
   - name: Swahili
     percent: 100
-  - name: Kikuyu
-    percent: 80
 # projects:
 #   - title: Using Visual Language Models for Multimodal Disaster Classification.
 #     url: https://github.com/Kenza1525/AI-Powered-Disaster-Response
