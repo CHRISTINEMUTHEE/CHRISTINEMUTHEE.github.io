@@ -11,7 +11,7 @@ last_name: Muthee
 
 # Status emoji
 status:
-  icon: ☕️ 🪷
+  icon: ☕️ 
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,9 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:cmuthee@alumni.cmu.edu'
     label: Official Email
-  - icon: at-symbol
-    url: 'mailto:xtinemuthee@gmail.com'
-    label: Personal Email
   - icon: brands/x
     url: https://x.com/Muthee_C
   - icon: brands/instagram
