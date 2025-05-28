@@ -1,7 +1,7 @@
 ---
 title: Using Visual Language Models for Multimodal Disaster Classification.
 date: 2025-04-26
-external_link: /content/project/vlms/Vlm_paper.pdf
+external_link: content/project/vlms/Vlm_paper.pdf
 pdf : 
 tags:
   # - Hugo
