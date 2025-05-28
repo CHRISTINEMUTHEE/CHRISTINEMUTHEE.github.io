@@ -173,7 +173,7 @@ skills:
       - name: Chess
         description: ''
         percent: 60
-        icon: assets/media/icons/FIDE.png
+        # icon: assets/media/icons/FIDE.png
 
 languages:
   - name: English
@@ -205,7 +205,7 @@ Professional Courses:
     url: https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/
     date: '2023-03-01'
     awarder: AWS
-    icon: assets/media/icons/aws.png
+    # icon: assets/media/icons/aws.png
     summary: |
       - Learnt the fundamentals of MLOps and Cloud Computing.
   - title: 'Complete SQL Bootcamp PostgreSQL'
