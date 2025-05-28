@@ -101,7 +101,7 @@ work:
   - position: Graduate Teaching Assistant (Introduction to Deep Learning)
     company_name: Carnegie Mellon University (Language Technologies Institute)
     company_url: https://deeplearning.cs.cmu.edu/S25/index.html
-    # company_logo: assets/media/icons/CMU.png
+    company_logo: assets/media/icons/CMU.svg
     date_start: 2025-01-01
     date_end: 2025-05-08
     summary: |2-
@@ -111,7 +111,7 @@ work:
   - position: Non-Resident Fellow
     company_name: Atlantic Council GeoTech Center
     company_url: https://www.atlanticcouncil.org/programs/geotech-center/about-us/
-    # company_logo: assets/media/icons/Atlantic.png
+    company_logo: assets/media/icons/Atlantic.svg
     date_start: 2023-11-01
     date_end: 2024-12-01
     summary: |2-
@@ -121,10 +121,10 @@ work:
   - position: Machine Learning Research Scientist.
     company_name: EPFL
     company_url: https://www.light-laboratory.org/
-    # company_logo: assets/media/icons/EPFL.png
+    company_logo: assets/media/icons/EPFL.svg
     date_start: 2024-06-01
     date_end: 2024-08-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Evaluating and aligning the Safety of a finetuned Medical LLM.
       - Data Preprocessing for the finetuning of Llama 3.1 LLM to create.
@@ -132,20 +132,20 @@ work:
   - position: Resposible AI Fellow
     company_name: The Stimson's Center & Microsoft's Office of Responsible AI.
     company_url: https://www.stimson.org/project/responsible-ai-fellowship/
-    # company_logo: assets/media/icons/stimson.png
+    company_logo: assets/media/icons/stimson.svg
     date_start: 2023-07-01
     date_end: 2023-11-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - In partnership with Microsoft’s Office of Responsible AI, the Strategic Foresight Hub at Stimson established a fellowship program to convene diverse stakeholders to examine AI applications and evaluate their impacts in developing countries. We sought to understand how AI-related harms and benefits manifest in various social, cultural, economic, and environmental contexts. We also identified technological and regulatory solutions that could help mitigate risks and maximize opportunities.
 
   - position: Data Analyst 
     company_name: World Resources Institute 
     company_url: https://www.wri.org/initiatives/canairy-alert
-    # company_logo: assets/media/icons/WRI.png
+    company_logo: assets/media/icons/WRI.svg
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Improved the science and delivery of NASA's GEOS-CF air quality forecast to data deprived cities in Africa by scaling down its course resolution using low cost sensors.
     
@@ -173,7 +173,7 @@ skills:
       - name: Chess
         description: ''
         percent: 60
-        # icon: assets/media/icons/FIDE.png
+        icon: assets/media/icons/FIDE.svg
 
 languages:
   - name: English
@@ -205,7 +205,7 @@ Professional Courses:
     url: https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/
     date: '2023-03-01'
     awarder: AWS
-    # icon: assets/media/icons/aws.png
+    icon: assets/media/icons/aws.svg
     summary: |
       - Learnt the fundamentals of MLOps and Cloud Computing.
   - title: 'Complete SQL Bootcamp PostgreSQL'
