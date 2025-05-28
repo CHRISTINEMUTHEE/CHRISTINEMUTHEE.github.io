@@ -134,7 +134,7 @@ work:
     company_url: https://www.stimson.org/project/responsible-ai-fellowship/
     company_logo: ''
     date_start: 2023-07-01
-    date_end: 2023-11-31
+    date_end: 2023-11-30
     summary: |2-
       Responsibilities include:
       - In partnership with Microsoft’s Office of Responsible AI, the Strategic Foresight Hub at Stimson established a fellowship program to convene diverse stakeholders to examine AI applications and evaluate their impacts in developing countries. We sought to understand how AI-related harms and benefits manifest in various social, cultural, economic, and environmental contexts. We also identified technological and regulatory solutions that could help mitigate risks and maximize opportunities.
