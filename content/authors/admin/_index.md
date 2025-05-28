@@ -101,7 +101,7 @@ work:
   - position: Graduate Teaching Assistant (Introduction to Deep Learning)
     company_name: Carnegie Mellon University (Language Technologies Institute)
     company_url: https://deeplearning.cs.cmu.edu/S25/index.html
-    company_logo: assets/media/icons/CMU.svg
+    company_logo: ''
     date_start: 2025-01-01
     date_end: 2025-05-08
     summary: |2-
@@ -111,7 +111,7 @@ work:
   - position: Non-Resident Fellow
     company_name: Atlantic Council GeoTech Center
     company_url: https://www.atlanticcouncil.org/programs/geotech-center/about-us/
-    company_logo: assets/media/icons/Atlantic.svg
+    company_logo: ''
     date_start: 2023-11-01
     date_end: 2024-12-01
     summary: |2-
@@ -121,7 +121,7 @@ work:
   - position: Machine Learning Research Scientist.
     company_name: EPFL
     company_url: https://www.light-laboratory.org/
-    company_logo: assets/media/icons/EPFL.svg
+    company_logo: ''
     date_start: 2024-06-01
     date_end: 2024-08-31
     summary: |2-
@@ -132,7 +132,7 @@ work:
   - position: Resposible AI Fellow
     company_name: The Stimson's Center & Microsoft's Office of Responsible AI.
     company_url: https://www.stimson.org/project/responsible-ai-fellowship/
-    company_logo: assets/media/icons/stimson.svg
+    company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-11-31
     summary: |2-
@@ -142,7 +142,7 @@ work:
   - position: Data Analyst 
     company_name: World Resources Institute 
     company_url: https://www.wri.org/initiatives/canairy-alert
-    company_logo: assets/media/icons/WRI.svg
+    company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |2-
@@ -173,7 +173,7 @@ skills:
       - name: Chess
         description: ''
         percent: 60
-        icon: assets/media/icons/FIDE.svg
+        icon: ''
 
 languages:
   - name: English
@@ -200,12 +200,12 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Professional Courses:
+awards:
   - title: Data Science with AWS SageMaker.
     url: https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/
     date: '2023-03-01'
     awarder: AWS
-    icon: assets/media/icons/aws.svg
+    icon: ''
     summary: |
       - Learnt the fundamentals of MLOps and Cloud Computing.
   - title: 'Complete SQL Bootcamp PostgreSQL'
@@ -215,10 +215,10 @@ Professional Courses:
     icon: Udemy
 
   - title: Practical Data Science and Machine Learning.
-    url: 
+    url: ''
     date: '2022-04-01'
     awarder: MIT Institute for Data, Systems and Society
-    # icon: MIT
+    icon: ''
     summary: |
       - I studied the foundational concept of Data science and Machine Learning. By the end, I was familiar with the significant technological trends applied to make Data Driven Decisions at scale.    
 
@@ -226,7 +226,7 @@ Professional Courses:
     url: https://media.licdn.com/dms/document/media/v2/C4E2DAQFectc14NTegw/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1645774166314?e=1749081600&v=beta&t=PgYb3R_nb2zPYSil4do_wKjXFGyiiIKdEKrrgzfi0iw
     date: '2022-04-02'
     awarder: Moringa School. 
-    # icon: MIT
+    icon: ''
     summary: |
       - This was a project based and self paced bootcamp to learn Professional application of Data Visualization, Data Science and Machine Learning. 
 ---
