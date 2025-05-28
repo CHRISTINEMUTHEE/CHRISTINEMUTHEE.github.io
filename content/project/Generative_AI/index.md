@@ -1,7 +1,7 @@
 ---
 title: Textual Inversion for Controlable Music Generation.
 date: 2025-04-25
-external_link: /workspaces/CHRISTINEMUTHEE.github.io/content/project/Generative_AI/music_Gen.pdf
+external_link: /content/project/Generative_AI/music_Gen.pdf
 tags:
   - Generative AI
   - Text to Audio.

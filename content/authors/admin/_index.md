@@ -101,17 +101,27 @@ work:
   - position: Graduate Teaching Assistant (Introduction to Deep Learning)
     company_name: Carnegie Mellon University (Language Technologies Institute)
     company_url: https://deeplearning.cs.cmu.edu/S25/index.html
-    company_logo: ''
+    company_logo: /assets/media/icons/CMU.png
     date_start: 2025-01-01
     date_end: 2025-05-08
     summary: |2-
       Responsibilities include:
       - Teaching and mentoring students on the theoretical and practical concepts of deep learning.
-
-  - position: Machine Learning Research Scientist
+  
+  - position: Non-Resident Fellow
+    company_name: Atlantic Council GeoTech Center
+    company_url: https://www.atlanticcouncil.org/programs/geotech-center/about-us/
+    company_logo: /assets/media/icons/Atlantic.png
+    date_start: 2023-11-01
+    date_end: 2024-12-01
+    summary: |2-
+      Responsibilities include:
+      - With a mission to shape the future of technology and data to advance people, the planet, prosperity, and peace, the Atlantic Council's Geotech Centre offered me an opportunity to join other subject matter experts and decision-makers to consider the broader societal, economic, and geopolitical implications of new and emerging technologies; and leverage technology to solve global challenges
+  
+  - position: Machine Learning Research Scientist.
     company_name: EPFL
     company_url: https://www.light-laboratory.org/
-    company_logo: ''
+    company_logo: /assets/media/icons/EPFL.png
     date_start: 2024-06-01
     date_end: 2024-08-31
     summary: |
@@ -119,16 +129,26 @@ work:
       - Evaluating and aligning the Safety of a finetuned Medical LLM.
       - Data Preprocessing for the finetuning of Llama 3.1 LLM to create.
       - Cordinated Research on Bias and alignment strategies in AI for Health Care.
+  - position: Resposible AI Fellow
+    company_name: The Stimson's Center & Microsoft's Office of Responsible AI.
+    company_url: https://www.stimson.org/project/responsible-ai-fellowship/
+    company_logo: /assets/media/icons/stimson.png
+    date_start: 2023-07-01
+    date_end: 2023-11-31
+    summary: |
+      Responsibilities include:
+      - In partnership with Microsoft’s Office of Responsible AI, the Strategic Foresight Hub at Stimson established a fellowship program to convene diverse stakeholders to examine AI applications and evaluate their impacts in developing countries. We sought to understand how AI-related harms and benefits manifest in various social, cultural, economic, and environmental contexts. We also identified technological and regulatory solutions that could help mitigate risks and maximize opportunities.
 
-  - position: Data Analyst
+  - position: Data Analyst 
     company_name: World Resources Institute 
-    company_url: https://www.wri.org/
-    company_logo: ''
+    company_url: https://www.wri.org/initiatives/canairy-alert
+    company_logo: /assets/media/icons/WRI.png
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
       - Improved the science and delivery of NASA's GEOS-CF air quality forecast to data deprived cities in Africa by scaling down its course resolution using low cost sensors.
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -150,14 +170,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Cycling
+      - name: Chess
         description: ''
         percent: 60
-        icon: bicycle
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: /assets/media/icons/FIDE.png
 
 languages:
   - name: English
@@ -184,25 +200,16 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+Professional Courses:
   - title: Data Science with AWS SageMaker.
     url: https://aws.amazon.com/training/classroom/practical-data-science-with-amazon-sagemaker/
     date: '2023-03-01'
     awarder: AWS
-    icon: aws
+    icon: /assets/media/icons/aws.png
     summary: |
-      Learned:
       - Learnt the fundamentals of MLOps and Cloud Computing.
-  - title: 'Database Management Systems using PostgreSQL'
-    url: https://www.udemy.com
-    certificate_url: https://www.udemy.com/
+  - title: 'Complete SQL Bootcamp PostgreSQL'
+    url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-df691a6a-b374-49ea-910c-f9a625eb0d82.pdf
     date: '2021-07-01'
     awarder: Udemy
     icon: Udemy
@@ -210,12 +217,20 @@ awards:
   - title: Practical Data Science and Machine Learning.
     url: 
     date: '2022-04-01'
-    awarder: Coursera
-    icon: coursera
+    awarder: MIT Institute for Data, Systems and Society
+    # icon: MIT
     summary: |
-      I studied the foundational concept of Data science and Machine Learning. By the end, I was familiar with the significant technological trends applied to make Data Driven Decisions at scale.     
+      - I studied the foundational concept of Data science and Machine Learning. By the end, I was familiar with the significant technological trends applied to make Data Driven Decisions at scale.    
+
+  - title: Data Science Core Program
+    url: https://media.licdn.com/dms/document/media/v2/C4E2DAQFectc14NTegw/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1645774166314?e=1749081600&v=beta&t=PgYb3R_nb2zPYSil4do_wKjXFGyiiIKdEKrrgzfi0iw
+    date: '2022-04-02'
+    awarder: Moringa School. 
+    # icon: MIT
+    summary: |
+      - This was a project based and self paced bootcamp to learn Professional application of Data Visualization, Data Science and Machine Learning. 
 ---
 
 ## About Me
 
-Christine Muthee is an Engineer of artificial intelligence. Her research interests include Geofoundation Models, Machine Learning for Earth Observation and the practical application of AI/Machine Leanrning for Environmental and Social Impact. She is currently a consultant of the World Resources Institute and matters AI and Remote Sensing for Small Scale Agriculural use.
+Christine Muthee is an Engineer of artificial intelligence. Her research interests include Geofoundation Models, Machine Learning for Earth Observation and the practical application of AI/Machine Leanrning for Environmental and Social Impact. She is currently a consultant of the World Resources Institute on AI and Remote Sensing for Small Scale Mapping.
