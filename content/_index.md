@@ -58,9 +58,9 @@ sections:
           - project
         exclude_featured: false
     design:
-      view: article-grid
+      view: citation
       # fill_image: false
-      columns: 3
+      # columns: 3
   # - block: collection
   #   content:
   #     title: Recent Projects
