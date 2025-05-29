@@ -233,4 +233,4 @@ awards:
 
 ## About Me
 
-Christine Muthee is an Engineer of artificial intelligence. Her research interests include Geofoundation Models, Machine Learning for Earth Observation and the practical application of AI/Machine Leanrning for Environmental and Social Impact. She is currently a consultant of the World Resources Institute on AI and Remote Sensing for Small Scale Mapping.
+Christine Muthee is an Engineer of artificial intelligence. Her research interests include Geofoundation Models, Machine Learning for Earth Observation and the practical application of AI/Machine Leanrning for Environmental and Social Impact. 

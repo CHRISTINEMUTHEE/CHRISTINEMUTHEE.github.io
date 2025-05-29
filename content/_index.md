@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm an AI and Remote Sensing Consultant at the World Resources Institute. I build Machine Learning Models to solve the most pressing environmental issues. My research interest include the development and transfer of large-scale pretraining of Geo foundation models to Earth Observation focused end-use cases for environmental understanding (e.g., species distribution modelling, flood mapping, land-use and land-cover mapping, Land Use Change monitoring etc. Please reach out to collaborate 😃
+        I build Machine Learning Models to solve the most pressing environmental issues. My research interest include the development and transfer of large-scale pretraining of Geo foundation models to Earth Observation focused end-use cases for environmental understanding (e.g., species distribution modelling, flood mapping, land-use and land-cover mapping, Land Use Change monitoring etc. Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
