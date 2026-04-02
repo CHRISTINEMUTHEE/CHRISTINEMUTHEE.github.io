@@ -2,7 +2,7 @@
 title: "Week 1: Building the Foundation — Repo Structure, Tooling & Your First Tests"
 date: 2026-02-10
 summary: "Week 1 of the AI Engineering Mentorship: a crash course in everything a bootcamp should have taught — clean repo structure, Makefiles, pre-commit hooks, type checking, and your first passing tests."
-tags: ["AI Engineering", "Unit Testing", "Python", "Repository Structure", "Type Checking", "mypy", "pytest", "FastAPI", "Makefile", "pre-commit", "Git Workflow"]
+tags: ["Type Checking", "mypy", "pytest", "FastAPI"]
 categories: ["AI Engineering Journey"]
 ---
 
