@@ -50,39 +50,6 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
-    content:
-      title: Recent Projects
-      text: Here are a selection of projects that I have worked on over the years. Note that the links lead to the project report.
-      filters:
-        folders:
-          - project
-        exclude_featured: false
-    design:
-      view: citation
-      # fill_image: false
-      # columns: 3
-  # - block: collection
-  #   content:
-  #     title: Recent Projects
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #         # - project
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
-  - block: collection
     id: news
     content:
       title: Blog Posts
