@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Engineering Consultant / Data Scientist.
+role: AI Engineer / Geospatial Data Scientist.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/CHRISTINEMUTHEE
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/christine-muthee-0411161b1/
+    url: https://www.linkedin.com/in/christine-muthee/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -98,56 +98,111 @@ education:
       - Geospatial Technologies
       - Maths and Physics
 work:
+  - position: AI and Data Scientist
+    company_name: World Resources Institute
+    company_url: https://www.wri.org/
+    company_logo: ''
+    date_start: 2026-02-01
+    summary: |2-
+      Develops machine learning algorithms for Earth observation focused on sustainable agriculture, including field boundary delineation, crop type mapping, yield estimation, and stress detection. Designs scientific experiments and analysis frameworks that combine biophysical and socioeconomic data while scaling AI infrastructure for reliable internal model deployment.
+
+  - position: AI and Remote Sensing Consultant
+    company_name: World Resources Institute
+    company_url: https://www.wri.org/
+    company_logo: ''
+    date_start: 2025-06-01
+    summary: |2-
+      Develops algorithms and methodologies for field boundary delineation and crop classification for small-scale farms in the Great Rift Valley and Rusizi River Basin.
+
   - position: Graduate Teaching Assistant (Introduction to Deep Learning)
-    company_name: Carnegie Mellon University (Language Technologies Institute)
+    company_name: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S25/index.html
     company_logo: ''
     date_start: 2025-01-01
-    date_end: 2025-05-08
+    date_end: 2025-05-31
     summary: |2-
-      Responsibilities include:
-      - Teaching and mentoring students on the theoretical and practical concepts of deep learning.
-  
-  - position: Non-Resident Fellow
-    company_name: Atlantic Council GeoTech Center
-    company_url: https://www.atlanticcouncil.org/programs/geotech-center/about-us/
-    company_logo: ''
-    date_start: 2023-11-01
-    date_end: 2024-12-01
-    summary: |2-
-      Responsibilities include:
-      - With a mission to shape the future of technology and data to advance people, the planet, prosperity, and peace, the Atlantic Council's Geotech Centre offered me an opportunity to join other subject matter experts and decision-makers to consider the broader societal, economic, and geopolitical implications of new and emerging technologies; and leverage technology to solve global challenges
-  
-  - position: Machine Learning Research Scientist.
+      Taught and mentored students on core deep learning concepts and practical implementation.
+
+  - position: Machine Learning Research Intern
     company_name: EPFL
     company_url: https://www.light-laboratory.org/
     company_logo: ''
     date_start: 2024-06-01
-    date_end: 2024-08-31
+    date_end: 2024-09-30
     summary: |2-
-      Responsibilities include:
-      - Evaluating and aligning the Safety of a finetuned Medical LLM.
-      - Data Preprocessing for the finetuning of Llama 3.1 LLM to create.
-      - Cordinated Research on Bias and alignment strategies in AI for Health Care.
-  - position: Resposible AI Fellow
-    company_name: The Stimson's Center & Microsoft's Office of Responsible AI.
+      Conducted research in the Machine Learning and Optimization Laboratory under the Laboratory of Intelligent Global Health Technologies (LiGHT).
+
+  - position: Data Science Consultant (Pollution Insights)
+    company_name: World Resources Institute
+    company_url: https://www.wri.org/initiatives/canairy-alert
+    company_logo: ''
+    date_start: 2024-02-01
+    date_end: 2024-09-30
+    summary: |2-
+      Assessed satellite data to identify pollution strength at source locations in Nairobi County and make high-quality satellite tools more accessible to policy makers.
+
+  - position: Non-Resident AI Fellow
+    company_name: Atlantic Council GeoTech Center
+    company_url: https://www.atlanticcouncil.org/programs/geotech-center/about-us/
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: 2024-12-31
+    summary: |2-
+      Collaborated with global experts and decision-makers to examine the societal, economic, and geopolitical implications of emerging technologies and how they can be applied to global challenges.
+
+  - position: Responsible AI Fellow
+    company_name: The Stimson Center
     company_url: https://www.stimson.org/project/responsible-ai-fellowship/
     company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-11-30
     summary: |2-
-      Responsibilities include:
-      - In partnership with Microsoft’s Office of Responsible AI, the Strategic Foresight Hub at Stimson established a fellowship program to convene diverse stakeholders to examine AI applications and evaluate their impacts in developing countries. We sought to understand how AI-related harms and benefits manifest in various social, cultural, economic, and environmental contexts. We also identified technological and regulatory solutions that could help mitigate risks and maximize opportunities.
+      In partnership with Microsoft's Office of Responsible AI, convened diverse stakeholders to evaluate AI impacts in developing countries and identify practical policy and technical pathways to mitigate harms and maximize benefits.
 
-  - position: Data Analyst 
-    company_name: World Resources Institute 
+  - position: Data Analyst - Air Quality Monitoring
+    company_name: World Resources Institute
     company_url: https://www.wri.org/initiatives/canairy-alert
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04-01
+    date_end: 2023-11-30
     summary: |2-
-      Responsibilities include:
-      - Improved the science and delivery of NASA's GEOS-CF air quality forecast to data deprived cities in Africa by scaling down its course resolution using low cost sensors.
+      Improved the science and delivery of NASA's GEOS-CF air quality forecast for data-constrained African cities by downscaling coarse-resolution outputs using low-cost sensors.
+
+  - position: Data Science Research Student
+    company_name: Moringa School
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-06-01
+    date_end: 2022-02-28
+    summary: |2-
+      Transitioned from Excel-based analysis to Python, R, and SQL and led or contributed to applied projects in recommender systems, clinical ML, geospatial analytics, and public health. Built end-to-end prototypes and team research workflows to solve real-world challenges using statistical and machine learning methods.
+
+  - position: Data Analyst
+    company_name: Polucon Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: 2021-05-31
+    summary: |2-
+      Developed and calibrated continuous ambient air quality monitoring systems, automated sensor data pipelines, and performed pollutant analysis against national and WHO thresholds. Reported actionable findings to regulators and industry teams to support pollution reduction targets and continuous emissions monitoring.
+
+  - position: Environmental Physics Expert (Air Quality Section)
+    company_name: Polucon Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2020-01-31
+    summary: |2-
+      Planned and implemented environmental monitoring and evaluation programs for major infrastructure projects, including Kipevu Oil Terminal, Kenya Port Authority expansion, and Dongo Kundu Bypass. Led laboratory evaluation workflows and trained junior analysts on particulate and gaseous emissions sampling for compliance reporting.
+
+  - position: Environmental Intern
+    company_name: National Environment Management Authority
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-04-01
+    date_end: 2017-08-31
+    summary: |2-
+      Reviewed environmental impact and audit reports and supported field inspections to verify licensing and environmental compliance for development projects.
     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
